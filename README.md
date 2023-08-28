@@ -9,7 +9,7 @@
 # Herta Kuru | 黑塔转圈圈 | ヘルタクルへ
 [Home Page | 主页 | ホーム ページ (Netlify)](https://herta.ft2.ltd/)
 [(BACKUP: via GitHub Pages)](https://duiqt.github.io/herta_kuru/)
-[ Bản Tiếng Việt | Vietnamese Version ](https://herta.nguyenhieu1.x10.mx)
+[ Bản Tiếng Việt | Vietnamese Version ](https://herta.nguyenhieu.click)
 Herta gif and art made by | Herta gif và art được tạo bởi | 黑塔 gif 绘画者 : [@Seseren_kr](https://twitter.com/Seseren_kr) 
 
 Tất cả các art thuộc bản quyền quyền sỡ hữu của Honkai: Star Rail của miHoYo/Hoyoverse
